@@ -35,7 +35,7 @@ This includes logic for:
 
 ## Tableau Dashboard
 
-✅ View Full Dashboard here:  
+View Full Dashboard here:  
 🔗 [Netflix Mini Insights - Tableau Public](https://public.tableau.com/app/profile/rajat.kumar3079/viz/NetflixMiniInsights/NetflixMiniInsightsDashboard?publish=yes)
 
 **Key Insights Covered:**
@@ -85,3 +85,7 @@ This project was made to simulate a real-world OTT streaming platform’s mini d
 Practice-ready for aspiring **Data Analysts / BI Developers / SQL & Tableau learners**.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Screenshot of Dashboard
+![image](https://github.com/user-attachments/assets/7e049ac0-7586-44c8-adae-56e9d027d3a5)
+
